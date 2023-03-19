@@ -32,7 +32,7 @@
   </div>
 
    <h1> Thankyou, AVINASH KUNAPAREDDY </h1>
-  <h1> BINDU VARALAKSHMI 03 </h1>
+  <h1> BINDU </h1>
 
   
 </form>
