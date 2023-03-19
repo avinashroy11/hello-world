@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, AVINASH KUNAPAREDDY </h1>
+   <h1> Thankyou, AVINASH </h1>
   <h1> BINDU </h1>
 
   
